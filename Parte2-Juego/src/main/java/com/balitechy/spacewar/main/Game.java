@@ -31,7 +31,7 @@ public class Game extends Canvas implements Runnable {
 
 	// Se guardan los estilos a usar
 	public enum Estilo {
-		SPRITES, COLORFULVECTOR
+		SPRITES, COLORFULVECTOR,VECTORIAL
 	}
 
 	// Constructor que acepta un estilo para el juego
@@ -62,6 +62,9 @@ public class Game extends Canvas implements Runnable {
 				break;
 			case COLORFULVECTOR:
 				sprites = new SpritesImageLoader("/colorvector.png");
+				break;
+			case VECTORIAL:
+				sprites = new SpritesImageLoader("/vectorial.png");
 				break;
 		}
 		
