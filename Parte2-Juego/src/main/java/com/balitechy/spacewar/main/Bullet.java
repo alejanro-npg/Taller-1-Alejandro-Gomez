@@ -27,6 +27,12 @@ public class Bullet {
 	
 		
 	}
+	else if (game.getEstilo()== Estilo.VECTORIAL) {
+		image = game.getSprites().getImage(180, 200, WIDTH, HEIGHT);
+
+	
+		
+	}
 	}
 	
 	public void tick(){
