@@ -24,6 +24,9 @@ public class BackgroundRenderer {
             case COLORFULVECTOR:
                 bg = new SpritesImageLoader("/colorscreen.png");
                 break;
+	    case VECTORIAL:
+                bg = new SpritesImageLoader("/FondoVectorial.png");
+                break;
             default:
                 throw new IllegalArgumentException("Estilo desconocido: " + estilo);
         }
