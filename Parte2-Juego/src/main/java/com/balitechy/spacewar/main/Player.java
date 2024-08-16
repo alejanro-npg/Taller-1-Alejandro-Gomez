@@ -36,6 +36,12 @@ public class Player {
 	
 			image = game.getSprites().getImage(70, 95, WIDTH,HEIGHT);
 		}
+		else if(game.getEstilo() == Estilo.VECTORIAL) {
+			
+		
+	
+			image = game.getSprites().getImage(180, 200, WIDTH,HEIGHT);
+		}
 	}
 
 	
