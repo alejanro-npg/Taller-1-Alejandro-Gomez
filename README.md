@@ -6,5 +6,5 @@
 [Diagrama-uml-fabrica-pizza.pdf](https://github.com/user-attachments/files/16632858/Diagrama-uml-fabrica-pizza.pdf)
 <br><br>
 <p>-Diagra uml de la segunda parte sobre el juego</p>
-[Diagrama uml del juego](https://github.com/user-attachments/assets/342809b8-ed3a-44bf-a68d-b59b829859f1)
+[Diagrama uml del juego.pdf](https://github.com/user-attachments/files/16632897/Diagrama.uml.del.juego.pdf)
 <br>
